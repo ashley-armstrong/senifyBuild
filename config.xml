@@ -2,10 +2,9 @@
 <widget id="com.senify.fmp" version="1.0.0" xmlns="http://www.w3.org/ns/widgets" xmlns:gap="http://phonegap.com/ns/1.0">
     <name>Senify</name>
     <description>
-        A blank PhoneGap app.
-    </description>
-    <author email="support@phonegap.com" href="http://phonegap.com">
-        PhoneGap Team
+SENIFY - A digital math tool    </description>
+    <author email="armstr38@uni.coventry.ac.uk" href="http://senify.co.uk">
+      Ashley Armstrong
     </author>
     <content src="index.html" />
     <access origin="*" />
